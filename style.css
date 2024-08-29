@@ -1,0 +1,34 @@
+body {
+    background-color:rgb(241, 235, 215);
+    font-family: "Courier New", Helvetica, monospace;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.home{
+    color:saddlebrown;
+}
+
+.list {
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    font-size: 24px;
+}
+
+.pesto{
+    color: rgb(107, 107, 0);
+    background-color: rgba(128, 128, 0, 0.226);
+}
+
+.burger{
+    background-color: rgba(158, 152, 146, 0.137);
+    color: rgb(44, 43, 43);
+}
+
+.cookie{
+    color:rgb(95, 49, 12);
+}
