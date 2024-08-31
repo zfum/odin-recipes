@@ -7,16 +7,36 @@ h1{
     text-align: center;
 
 }
+.banner{
+    width: max-content;
+    margin: 0 auto;
+}
 
+.container{
+    margin: 0 auto;
+    padding: 120px;
+
+}
 .home{
     color:saddlebrown;
+    margin-bottom: 40px;
+
 }
 
 .list {
+    box-sizing: border-box;
+    height: 400px;
+    width: 400px;
     text-align: center;
-    padding: 0;
+    margin: 20px auto;
+    border: 20px double rgba(139, 69, 19, 0.644);
+    padding: 50px;
     list-style: none;
     font-size: 24px;
+}
+
+.items{
+    margin: 29px;
 }
 
 .pesto{
